@@ -1,6 +1,6 @@
 # Hi there, I'm Chinmay Nerkar 👋
 
-Welcome to my GitHub profile! As a passionate **Computer Science Engineering Graduate**, I thrive on balancing the complexities of **Software Development** with a diverse skill set that bridges **Technology** and **Finance**. Driven by a deep interest in the intersection of **FinTech** and **Software Engineering**, I am constantly exploring innovative ways to harness technology and revolutionize the finance industry.    **Coding solutions and burning the candle from both ends 📈**
+Welcome to my GitHub profile! As a passionate **Computer Science Engineering Graduate**, I thrive on balancing the complexities of **Software Development** with a diverse skill set that bridges **Technology** and **Finance**. Driven by a deep interest in the intersection of **FinTech** and **Software Engineering**, I am constantly exploring innovative ways to harness technology and revolutionize the finance industry.    **Coding solutions and burning the candle at both ends 📈**
 
 ## 🚀 About Me
 
