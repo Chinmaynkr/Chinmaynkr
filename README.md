@@ -1,6 +1,6 @@
 # Hi there, I'm Chinmay Nerkar 👋
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science Engineering Graduate** with a strong foundation in **Software Development** and a diverse skill set that spans **Technology** and **Finance**. I'm particularly interested in the intersection of **FinTech** and **Software Engineering**, and I enjoy exploring how technology can revolutionize the finance industry. Here's a bit about me:
+Welcome to my GitHub profile! As a passionate **Computer Science Engineering Graduate**, I thrive on balancing the complexities of **Software Development** with a diverse skill set that bridges **Technology** and **Finance**. Driven by a deep interest in the intersection of **FinTech** and **Software Engineering**, I am constantly exploring innovative ways to harness technology and revolutionize the finance industry.    **Coding solutions and burning the candle from both ends 📈**
 
 ## 🚀 About Me
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science Engineering Gr
 - 👯 I’m looking to collaborate on **innovative ideas** and open-source projects, especially in the **FinTech** and **Software Development** spaces.
 - 💬 Ask me about **Software Development**, **Cloud Computing**, **FinTech**, and **IoT**.
 - 📫 How to reach me: [chinmaynkr@gmail.com](mailto:chinmaynkr@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chinmay-nerkar)
-- ⚡ Fun fact: I have a solid understanding of **finance**, including **stock markets**, **mutual funds**, **investment strategies**, and **FinTech**. I love learning about financial markets and how technology can enhance financial services, as much as I love coding!
+- ⚡ Fun fact: I have a solid understanding of **finance**, including **stock markets**, **mutual funds** and **investment strategies**. I love learning about financial markets and how technology can enhance financial services, as much as I love coding!
 
 ---
 
@@ -75,8 +75,9 @@ Here are some of the projects I've worked on:
 
 ## 💬 Let's Chat
 
-Feel free to reach out to me for any queries or collaboration opportunities. I’m always open to discussing **new ideas**, **projects**, or simply connecting over **technology**, **FinTech**, and **finance**.
+Feel free to reach out to me for any queries or collaboration opportunities. I’m always open to discussing **new ideas**, **projects**, or simply connecting over **Technology** and **Finance**.
 
 Thanks for visiting my profile!
 
 ---
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Chinmaynkr)
