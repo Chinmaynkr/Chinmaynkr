@@ -15,11 +15,13 @@ Welcome to my GitHub profile! As a passionate **Computer Science Engineering Gra
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: C, Java, SQL
+- **Languages**: C, Java, SQL, Dart
 - **Web Technologies**: HTML, CSS
+- **Mobile Development**: Flutter
 - **Cloud**: AWS, Google Cloud
 - **IoT**: Arduino, ESP8266, Ultrasonic Sensors, OLED Displays
 - **FinTech Tools**: Financial APIs
+- **Development Techniques**: Prompt Engineering
 - **Tools**: Git, GitHub, XAMPP
 
 ---
@@ -39,24 +41,19 @@ Welcome to my GitHub profile! As a passionate **Computer Science Engineering Gra
 ## 📄 Projects
 
 Here are some of the projects I've worked on:
+- **[Stock Average Price Calculator](https://github.com/Chinmaynkr/stock_avg_calculator)**
+  The Stock Average Price Calculator is a mobile application built using Flutter and developed through Prompt Engineering. It is designed to help users easily calculate the average price of stocks, built with 
+  Flutter for a smooth cross-platform experience.
 
-- **[Student Record Management System (DBMS)](https://github.com/Chinmaynkr/Student-Record-Management)**  
+- **[IoT Object Detection Distance Calculator](https://github.com/Chinmaynkr/iot-object-detection-distance-calculator)**  
+ Developed an IoT object detection system using **ESP8266**, **ultrasonic sensors**, and **OLED displays** to calculate object distance and provide real-time alerts with buzzer and LED indicators.
+  
+- **[Student Record Management System (DBMS)](https://github.com/Chinmaynkr/Student-Record-Management-Mini-Project-)**  
   A user-friendly student record management system built using **XAMPP** and **MySQL**, with a focus on efficient CRUD operations for managing student data.
 
-- **[IoT-Based Object Detection System](https://github.com/Chinmaynkr/IoT-Object-Detection)**  
-  Developed an IoT object detection system using **ESP8266**, **ultrasonic sensors**, and **OLED displays** to calculate object distance and provide real-time alerts with buzzer and LED indicators.
 
 ---
 
-## 🌟 Featured Repositories
-
-- **[IoT Object Detection Project](https://github.com/Chinmaynkr/IoT-Object-Detection)**  
-  A fully open-source project designed for real-time object detection using **ESP8266**, **ultrasonic sensor**, and **OLED display**. Achieved 95% detection accuracy.
-
-- **[DBMS Student Record System](https://github.com/Chinmaynkr/Student-Record-Management)**  
-  A robust student record management system for educational institutions, featuring an easy-to-use interface and efficient database management.
-
----
 
 ## 💼 Certifications
 
